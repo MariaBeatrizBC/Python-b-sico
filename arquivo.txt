@@ -1,0 +1,2 @@
+Testando fun��es utilizadas para manipula��o de arquivos.
+As primeiras fun��es testadas foram open() e .write
